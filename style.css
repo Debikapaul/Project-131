@@ -4,10 +4,17 @@ body{
 }
 
 
-.heading
-{
+.heading{
 font-size: 23px;
 background: transparent;
 margin-top: 25px ;
 font-weight : bold;
+}
+
+a{
+    text-align: center;
+    color: rgb(26, 24, 24);
+    margin: 1800px;
+    float: none;
+    position: fixed;
 }
